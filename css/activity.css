@@ -71,6 +71,7 @@ h2 {
   text-align: left;
   color: #fff;
   font-size: 38px;
+  text-shadow: 0 0 10px rgba( 0 0 0 / 30% );
   line-height: 1.5;
 }
 .banner_text p:before{
@@ -86,6 +87,7 @@ h2 {
 /* 목록 */
 .act_list{
   text-align: left;
+  padding-bottom: 100px;
 }
 .act_list ul{
   overflow: hidden;
@@ -93,7 +95,9 @@ h2 {
 .act_list ul li{
   float: left;
   width: 548px;
+  height: 220px;
   box-sizing: border-box;
+  margin-bottom: 40px;
 }
 .act_list ul li:nth-child(even){
   margin-left: 104px;
