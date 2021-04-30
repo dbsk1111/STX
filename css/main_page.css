@@ -170,7 +170,7 @@
 .section2 ul li a .list_title{
   position: relative;
   padding-top: 100px;
-  text-shadow: 0 0 5px rgba( 0 0 0 / 30% );
+  text-shadow: 0 0 5px rgba( 0, 0, 0, 30% );
   transition: text-shadow .2s;
   z-index: 10;
 }
