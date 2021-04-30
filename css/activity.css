@@ -66,15 +66,16 @@ h2 {
 .banner .inner{
   overflow: visible;
 }
-.banner_text p{
+.banner_text h3{
   position: relative;
   text-align: left;
   color: #fff;
   font-size: 38px;
+  font-weight: 400;
   text-shadow: 0 0 10px rgba( 0 0 0 / 30% );
   line-height: 1.5;
 }
-.banner_text p:before{
+.banner_text h3:before{
   content: '';
   position: absolute;
   top: -35px;
@@ -126,7 +127,7 @@ h2 {
   font-size: 30px;
   line-height: 57px;
 }
-.list_title{
+.list_title h4{
   margin: 25px 0 15px;
   color: #111;
   font-size: 21px;

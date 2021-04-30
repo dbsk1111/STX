@@ -9,7 +9,7 @@
   background-size: cover;
   background-position: center;
 }
-.section1 .banner_text{
+.section1 .banner_text h2{
   display: inline-block;
   position: relative;
   top: 230px;
@@ -20,7 +20,7 @@
   text-shadow: 0 0 10px rgba( 0 0 0 / 30% );
   line-height: 1.1;
 }
-.section1 .banner_text:before{
+.section1 .banner_text h2:before{
   content: '';
   position: absolute;
   left: 0px;
