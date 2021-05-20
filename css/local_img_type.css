@@ -80,10 +80,3 @@ address{
 .btn:last-child{
   margin-top: 5px;
 }
-
-.map01{
-  background: url('../img/local/local_map01.jpg') center / cover;
-}
-.map01{
-  background: url('../img/local/local_map02.jpg') center / cover;
-}
