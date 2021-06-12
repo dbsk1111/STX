@@ -53,10 +53,7 @@ h2 {
 .banner{
   width: 100%;
   height: 580px;
-  /* 이렇게 잘 안 된다 */
-  /* {background:color position size repeat origin clip attachment image;} */
-  background: center center no-repeat url('../img/activity/bg_social02.png');
-  background-size: cover;
+  background: url('../img/activity/bg_social02.png') no-repeat center center / cover;
 }
 .banner{
   display: flex;
